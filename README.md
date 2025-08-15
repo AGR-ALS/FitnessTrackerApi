@@ -9,7 +9,7 @@
 2. **Clone repository**
     
     ```cmd
-    git clone https://github.com/aChainsmoker/FitnessTrackerApi.git
+    git clone https://github.com/AGR-ALS/FitnessTrackerApi.git
     cd .\FitnessTrackerApi\FitnessTracker.Api\
     ```
 
@@ -32,7 +32,7 @@
 2. **Clone repository**
     
     ```cmd
-    git clone https://github.com/aChainsmoker/FitnessTrackerApi.git
+    git clone https://github.com/AGR-ALS/FitnessTrackerApi.git
     cd .\FitnessTrackerApi\FitnessTracker.Api\
     ```
 
